@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "YourFontName";
+  src: url("Montserrat/Montserrat-Light.ttf");
+}
+
+@font-face {
+    font-family: "YourFontName1";
+    src: url("Montserrat/Montserrat-Regular.ttf");
+  }
+
+body {
+  background-color: rgb(205, 215, 253);
+  font-style: YourFontName;
+}
+
+table {
+    width: auto;
+}
+
+#backgroundImg {
+  height: 500px;
+  padding-left: 294.28px;
+  padding-top: 95px;
+}
+
+#backgroundTxt {
+  height: 250px;
+  padding-bottom: 90px;
+  padding-left: 210.5px;
+}
+
+#t1 {
+    font-family: YourFontName1;
+    color: rgb(14, 43, 75);
+    font-size: 50px;
+}
+
+#t2 {
+    font-family: YourFontName;
+    color: rgb(14, 43, 75);
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#background {
+    height: 750px;
+}
