@@ -13,36 +13,16 @@ body {
   font-style: YourFontName;
 }
 
-table {
-    width: auto;
-}
-
 #backgroundImg {
   height: 500px;
-  padding-left: 294.28px;
+  padding-left: 300.28px;
   padding-top: 95px;
+  background-attachment: fixed;
 }
 
 #backgroundTxt {
-  height: 250px;
+  height: 150px;
   padding-bottom: 90px;
-  padding-left: 210.5px;
-}
-
-#t1 {
-    font-family: YourFontName1;
-    color: rgb(14, 43, 75);
-    font-size: 50px;
-}
-
-#t2 {
-    font-family: YourFontName;
-    color: rgb(14, 43, 75);
-    font-size: 25px;
-    text-align: center;
-    padding-bottom: 5px;
-}
-
-#background {
-    height: 750px;
+  padding-left: 225.5px;
+  background-attachment: fixed;
 }
