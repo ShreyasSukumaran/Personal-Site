@@ -35,6 +35,20 @@ body,html {
   top: 330px;
 }
 
+
+#text2 {
+  color: #092764;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 35px;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  position: absolute;
+  left: 365px;
+  top: 410px;
+}
+
 #backgroundTxt {
   height: 150px;
   padding-bottom: 90px;
